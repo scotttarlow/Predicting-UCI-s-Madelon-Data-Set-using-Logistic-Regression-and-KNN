@@ -3,6 +3,8 @@
 
 Scott Tarlow
 
+see Report.pdf for better formatting. see iPython notebooks for raw code for each pipeline.
+
 ## Introduction
 
 ### Domain and Data
