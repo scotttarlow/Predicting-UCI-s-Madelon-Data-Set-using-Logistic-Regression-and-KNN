@@ -1,7 +1,7 @@
 
 # Predicting UCI's Madelon Data Set using Logistic Regression and KNN
 
-Scott Tarlow, for project 5 in DSI
+Scott Tarlow
 
 ## Introduction
 
